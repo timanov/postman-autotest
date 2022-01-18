@@ -1,2 +1,2 @@
-# postman-autotest
-Postman-Autotest
+# Пройденный курс по основам автоматизации REST и SOAP сервисов.
+Все лекции находятся в "Issues"
